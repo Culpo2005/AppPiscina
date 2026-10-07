@@ -1,0 +1,1 @@
+ C:\\Users\\andre\\Desktop\\GestionalePiscina\\app\\.dart_tool\\flutter_build\\5e171352762f89129403cd3e7d13cf3d\\native_assets.json: 

@@ -1,0 +1,124 @@
+{
+  "attivita": [
+    {
+      "id": "a001",
+      "tipo": "corso",
+      "nome": "Functional Training",
+      "data": "2026-07-06",
+      "durataMinuti": 40,
+      "calorieBruciate": 380
+    },
+    {
+      "id": "a002",
+      "tipo": "corso",
+      "nome": "Spinning",
+      "data": "2026-07-13",
+      "durataMinuti": 45,
+      "calorieBruciate": 420
+    },
+    {
+      "id": "a003",
+      "tipo": "corso",
+      "nome": "Pilates",
+      "data": "2026-07-20",
+      "durataMinuti": 50,
+      "calorieBruciate": 260
+    },
+    {
+      "id": "a004",
+      "tipo": "corso",
+      "nome": "Functional Training",
+      "data": "2026-08-03",
+      "durataMinuti": 40,
+      "calorieBruciate": 390
+    },
+    {
+      "id": "a005",
+      "tipo": "corso",
+      "nome": "Spinning",
+      "data": "2026-08-10",
+      "durataMinuti": 45,
+      "calorieBruciate": 430
+    },
+    {
+      "id": "a006",
+      "tipo": "libero",
+      "nome": "Allenamento libero",
+      "data": "2026-08-17",
+      "durataMinuti": 60,
+      "calorieBruciate": 500
+    },
+    {
+      "id": "a007",
+      "tipo": "corso",
+      "nome": "Pilates",
+      "data": "2026-08-24",
+      "durataMinuti": 50,
+      "calorieBruciate": 270
+    },
+    {
+      "id": "a008",
+      "tipo": "corso",
+      "nome": "Functional Training",
+      "data": "2026-08-31",
+      "durataMinuti": 40,
+      "calorieBruciate": 400
+    },
+    {
+      "id": "a009",
+      "tipo": "corso",
+      "nome": "Spinning",
+      "data": "2026-09-02",
+      "durataMinuti": 45,
+      "calorieBruciate": 440
+    },
+    {
+      "id": "a010",
+      "tipo": "libero",
+      "nome": "Allenamento libero",
+      "data": "2026-09-04",
+      "durataMinuti": 55,
+      "calorieBruciate": 480
+    },
+    {
+      "id": "a011",
+      "tipo": "corso",
+      "nome": "Pilates",
+      "data": "2026-09-07",
+      "durataMinuti": 50,
+      "calorieBruciate": 265
+    },
+    {
+      "id": "a012",
+      "tipo": "corso",
+      "nome": "Functional Training",
+      "data": "2026-09-09",
+      "durataMinuti": 40,
+      "calorieBruciate": 395
+    },
+    {
+      "id": "a013",
+      "tipo": "corso",
+      "nome": "Spinning",
+      "data": "2026-09-11",
+      "durataMinuti": 45,
+      "calorieBruciate": 425
+    },
+    {
+      "id": "a014",
+      "tipo": "corso",
+      "nome": "Functional Training",
+      "data": "2026-09-14",
+      "durataMinuti": 40,
+      "calorieBruciate": 400
+    },
+    {
+      "id": "a015",
+      "tipo": "libero",
+      "nome": "Allenamento libero",
+      "data": "2026-09-15",
+      "durataMinuti": 30,
+      "calorieBruciate": 250
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gestionale_piscina.iml" filepath="$PROJECT_DIR$/gestionale_piscina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/gestionale_piscina_android.iml" filepath="$PROJECT_DIR$/android/gestionale_piscina_android.iml" />
+    </modules>
+  </component>
+</project>
